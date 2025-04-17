@@ -3,7 +3,7 @@ getgenv().Config = {
     ["Config"] = {
         ["Auto V4"] = true,
         ["Skip Race V4 Players"] = true,
-        ["Low Health"] = 4500, 5300
+        ["Low Health"] = 3000, 4000
     },
     ["Tool"] = {
         ["Melee"] = {["Enable"] = true,
